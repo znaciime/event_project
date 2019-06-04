@@ -1,0 +1,99 @@
+.header{
+    border-bottom:5px solid #924931;
+    background-color:	#924931 ;
+    color: blanchedalmond;
+}
+.headbutton{
+    width: 100%;
+    color: aliceblue;
+   
+    border-color: gold;
+}
+.headbutton:hover{
+    color: gold;
+    
+}
+.carousel{
+   height: 170px;
+   display: inline;
+  
+  
+}
+.rail{
+    height: 200px;
+    
+    overflow: hidden; 
+  border-top:3px solid #924931;
+    border-bottom:5px solid #924931;
+    border-bottom-color: #924931;
+    
+}
+.loginform{
+    background-color: #e7cfae;
+    height: 350px;
+}
+.footer{
+    background-color: #924931;
+    color: azure;
+    text-align: center;
+    height: 75px;
+}
+.header2{
+    background-color:	#924931 ;
+    color: blanchedalmond;
+    text-align: center;
+}
+.right{
+    background-color: #350d06;
+}
+.card{
+    box-shadow:10px 10px 10px #350d06;
+}
+.formgroup{
+    box-shadow: 10px 10px 10px #d4a96b;
+height:200px;
+}
+.card{
+    height: 470px;
+     overflow: hidden;
+    
+}
+.card p{
+   
+}
+.modal1{
+    top:200px;
+}
+
+.card img{
+    height: 70%;
+}
+.firstsubheader{
+   background-color: #d4a96b;
+  
+}
+.firstsubheader h5{
+  text-align: center ;
+}
+.row h3{
+    background-color: #924931;
+   height: 35px;
+    color: aliceblue;
+    overflow: hidden;
+}
+.topheader{
+    background-color: #924931;
+}
+.footer2{
+    position: fixed;
+    bottom: 0%;
+    background-color: #924931;
+    color: azure;
+    text-align: center;
+    height: 75px;
+    width: 100%;
+}
+.modal{
+    overflow: scroll;
+    box-shadow: 10px 10px 10px  #924931;
+}
