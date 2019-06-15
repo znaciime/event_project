@@ -6,29 +6,38 @@ let arr1=[
     { 
          id:"1",
         naslov:"Event1",
-        img:"http://static.mondo.rs/Picture/795880/jpeg/mihajlo-pjanovic-sasa-ilic-finale-kupa.jpg",
-        description:"first event",
+        img:"https://t-ec.bstatic.com/images/hotel/max1024x768/650/65026569.jpg",
+        description:"Lorem ipsum dolor sit amet, eam debet ocurreret cu, meliore repudiare cotidieque pri te. Facilisi atomorum qui ea, ex melius bonorum mea. No dolorem reprehendunt mea, sea possit definiebas cu, an vis modo melius sanctus. Veri petentium democritum mea ea, vix te stet dicant deserunt.",
         type:"sport"
     },
     {
         id:"2",
         naslov:"Event2",
-        img:"http://static.mondo.rs/Picture/729782/jpeg/narodni-muzej-red-mondo-goran-sivacki-25.JPG",
-        description:"Obeležavajući 175. godišnjicu od osnivanja, Narodni muzej najavljuje program kojim učestvuje u manifestaciji Muzeji za 10. Peti put po redu, manifestacija u čijem osnivanju je učestvovao i Narodni muzej, održava se od 13 do 19. maja i obuhvatiće obeležavanje Međunarodnog dana muzeja, Evropske noći muzeja i Nacionalne nedelje muzeja. Svake godine ova najveća nacionalna muzejska inicijativa privuče oko 200.000 posetilaca.",
+        img:"https://odis.homeaway.com/odis/listing/e8679033-540f-4dae-b791-b6c0c71d8faf.c10.jpg",
+        description:"Lorem ipsum dolor sit amet, eam debet ocurreret cu, meliore repudiare cotidieque pri te. Facilisi atomorum qui ea, ex melius bonorum mea. No dolorem reprehendunt mea, sea possit definiebas cu, an vis modo melius sanctus. Veri petentium democritum mea ea, vix te stet dicant deserunt.",
         type:"kultura"
     },
     {
         id:"3",
         naslov:"Event3",
-        img:"http://static.mondo.rs/Picture/794812/jpeg/noc-muzeja-2019-18-.jpg",
-        description:"Od starog Teatra na Đumruku do dalekih predela Afrike, preko sada već istorijskih fudbalskih mečeva, ali i novih umetničkih praksi inspirisanih starim dečjim igrama, 16. Noć muzeja ove subote krije nekoliko skrivenih dragulja širom Beograda koje ne bi trebalo propustiti!  ",
+        img:"https://www.makalius.lt/wp-content/gallery/seiseliai-galerija/valtis.jpg",
+        description:" Lorem ipsum dolor sit amet, eam debet ocurreret cu, meliore repudiare cotidieque pri te. Facilisi atomorum qui ea, ex melius bonorum mea. No dolorem reprehendunt mea, sea possit definiebas cu, an vis modo melius sanctus. Veri petentium democritum mea ea, vix te stet dicant deserunt.",
+        
         type:"kultura"
     },
     {
         id:"4",
         naslov:"Event4",
         img:"http://static.mondo.rs/Picture/794615/jpeg/noc.jpg",
-        description:"Od starog Teatra na Đumruku do dalekih predela Afrike, preko sada već istorijskih fudbalskih mečeva, ali i novih umetničkih praksi inspirisanih starim dečjim igrama, 16. Noć muzeja ove subote krije nekoliko skrivenih dragulja širom Beograda koje ne bi trebalo propustiti!  ",
+        description:" Lorem ipsum dolor sit amet, eam debet ocurreret cu, meliore repudiare cotidieque pri te. Facilisi atomorum qui ea, ex melius bonorum mea. No dolorem reprehendunt mea, sea possit definiebas cu, an vis modo melius sanctus. Veri petentium democritum mea ea, vix te stet dicant deserunt.",
+        
+        kultura:"kultura"
+    },
+    {
+        id:"5",
+        naslov:"Event5",
+        img:"http://gulflife.online/wp-content/uploads/2017/04/01-1.png",
+        description:"lLorem ipsum dolor sit amet, eam debet ocurreret cu, meliore repudiare cotidieque pri te. Facilisi atomorum qui ea, ex melius bonorum mea. No dolorem reprehendunt mea, sea possit definiebas cu, an vis modo melius sanctus. Veri petentium democritum mea ea, vix te stet dicant deserunt.",
         kultura:"kultura"
     }
 
@@ -37,31 +46,51 @@ const arr2=[
     { 
         id:"1",
        naslov:"Event1",
-       img:"http://static.mondo.rs/Picture/795880/jpeg/mihajlo-pjanovic-sasa-ilic-finale-kupa.jpg",
-       description:"first event",
+       img:"https://cdn.bitlanders.com/users/galleries/459391/459391_gallery_56517511e17cb_jpg_fa_rszd.jpg",
+       description:"Lorem ipsum dolor sit amet, eam debet ocurreret cu, meliore repudiare cotidieque pri te. Facilisi atomorum qui ea, ex melius bonorum mea. No dolorem reprehendunt mea, sea possit definiebas cu, an vis modo melius sanctus. Veri petentium democritum mea ea, vix te stet dicant deserunt."
+       ,
        type:"sport"
    },
    {
        id:"2",
        naslov:"Event2",
-       img:"http://static.mondo.rs/Picture/729782/jpeg/narodni-muzej-red-mondo-goran-sivacki-25.JPG",
-       description:"Obeležavajući 175. godišnjicu od osnivanja, Narodni muzej najavljuje program kojim učestvuje u manifestaciji Muzeji za 10. Peti put po redu, manifestacija u čijem osnivanju je učestvovao i Narodni muzej, održava se od 13 do 19. maja i obuhvatiće obeležavanje Međunarodnog dana muzeja, Evropske noći muzeja i Nacionalne nedelje muzeja. Svake godine ova najveća nacionalna muzejska inicijativa privuče oko 200.000 posetilaca.",
-       type:"kultura"
+       img:"https://static.standard.co.uk/s3fs-public/thumbnails/image/2017/08/31/11/andregomes3108abc.jpg",
+       description:"Lorem ipsum dolor sit amet, eam debet ocurreret cu, meliore repudiare cotidieque pri te. Facilisi atomorum qui ea, ex melius bonorum mea. No dolorem reprehendunt mea, sea possit definiebas cu, an vis modo melius sanctus. Veri petentium democritum mea ea, vix te stet dicant deserunt."
+       ,
+       type:"sport"
    },
    {
        id:"3",
        naslov:"Event3",
-       img:"http://static.mondo.rs/Picture/794812/jpeg/noc-muzeja-2019-18-.jpg",
-       description:"Od starog Teatra na Đumruku do dalekih predela Afrike, preko sada već istorijskih fudbalskih mečeva, ali i novih umetničkih praksi inspirisanih starim dečjim igrama, 16. Noć muzeja ove subote krije nekoliko skrivenih dragulja širom Beograda koje ne bi trebalo propustiti!  ",
+       img:"https://t-ec.bstatic.com/images/hotel/max1024x768/650/65026569.jpg",
+       description:" Lorem ipsum dolor sit amet, eam debet ocurreret cu, meliore repudiare cotidieque pri te. Facilisi atomorum qui ea, ex melius bonorum mea. No dolorem reprehendunt mea, sea possit definiebas cu, an vis modo melius sanctus. Veri petentium democritum mea ea, vix te stet dicant deserunt."
+       ,
        type:"kultura"
    },
    {
        id:"4",
        naslov:"Event4",
-       img:"http://static.mondo.rs/Picture/794615/jpeg/noc.jpg",
-       description:"Od starog Teatra na Đumruku do dalekih predela Afrike, preko sada već istorijskih fudbalskih mečeva, ali i novih umetničkih praksi inspirisanih starim dečjim igrama, 16. Noć muzeja ove subote krije nekoliko skrivenih dragulja širom Beograda koje ne bi trebalo propustiti!  ",
+       img:"https://www.kanuhura.com/sites/default/files/styles/720x460/public/externals/Kanuhura_aerial__57_-1600x1199-1101bbee-2c98-4d6b-8b01-4c10adad8f84.jpg?itok=Tk0tcMyK",
+       description:" Lorem ipsum dolor sit amet, eam debet ocurreret cu, meliore repudiare cotidieque pri te. Facilisi atomorum qui ea, ex melius bonorum mea. No dolorem reprehendunt mea, sea possit definiebas cu, an vis modo melius sanctus. Veri petentium democritum mea ea, vix te stet dicant deserunt."
+       ,
        type:"kultura"
-   }
+   },
+   {
+    id:"5",
+    naslov:"Event4",
+    img:"https://www.kanuhura.com/sites/default/files/styles/720x460/public/externals/Kanuhura_aerial__57_-1600x1199-1101bbee-2c98-4d6b-8b01-4c10adad8f84.jpg?itok=Tk0tcMyK",
+    description:" Lorem ipsum dolor sit amet, eam debet ocurreret cu, meliore repudiare cotidieque pri te. Facilisi atomorum qui ea, ex melius bonorum mea. No dolorem reprehendunt mea, sea possit definiebas cu, an vis modo melius sanctus. Veri petentium democritum mea ea, vix te stet dicant deserunt."
+    ,
+    type:"zabava"
+},
+{
+    id:"6",
+    naslov:"Event4",
+    img:"https://www.kanuhura.com/sites/default/files/styles/720x460/public/externals/Kanuhura_aerial__57_-1600x1199-1101bbee-2c98-4d6b-8b01-4c10adad8f84.jpg?itok=Tk0tcMyK",
+    description:" Lorem ipsum dolor sit amet, eam debet ocurreret cu, meliore repudiare cotidieque pri te. Facilisi atomorum qui ea, ex melius bonorum mea. No dolorem reprehendunt mea, sea possit definiebas cu, an vis modo melius sanctus. Veri petentium democritum mea ea, vix te stet dicant deserunt."
+    ,
+    type:"zabava"
+}
 
 
 ]; 
